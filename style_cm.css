@@ -1,5 +1,5 @@
 .images{
-    height: 80vh;
+    height: 70vh;
     width: 60%;
     display: flex;
     align-items: center;
@@ -9,7 +9,7 @@
 
 img{
     margin: 10px;
-    width: 180px;
+    width: 30vh;
 }
 .main{
     width: 100%;
@@ -21,7 +21,7 @@ img{
     justify-content: center;
 }
 .back-video{
-    width: 95%;
+    width: 100%;
     height: 100%;
     position: absolute;
     right: 0;
